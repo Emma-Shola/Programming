@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<title>div tag</title>
+<style>
+div{
+    background-color: black;
+}
+
+
+</style>
+<div>home</div>
+
+</html>
